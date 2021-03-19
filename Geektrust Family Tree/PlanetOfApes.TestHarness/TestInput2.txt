@@ -1,0 +1,2 @@
+﻿ADD Pjali Srutak Male
+GET Pjali Son

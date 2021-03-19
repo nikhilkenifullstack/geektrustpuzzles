@@ -1,0 +1,140 @@
+{
+  "king": "Shan",
+  "queen": "Anga",
+  "children": [
+    {
+      "name": "Chit",
+      "isMale": true,
+      "spouse": "Amba",
+      "children": [
+        {
+          "name": "Dritha",
+          "isMale": false,
+          "spouse": "Jaya",
+          "children": [
+            {
+              "name": "Yodhan",
+              "isMale": true,
+              "spouse": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "name": "Tritha",
+          "isMale": false,
+          "spouse": "",
+          "children": null
+        },
+        {
+          "name": "Vritha",
+          "isMale": true,
+          "spouse": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "name": "Ish",
+      "isMale": true,
+      "spouse": "",
+      "children": null
+    },
+    {
+      "name": "Vish",
+      "isMale": true,
+      "spouse": "Lika",
+      "children": [
+        {
+          "name": "Vila",
+          "isMale": false,
+          "spouse": "",
+          "children": null
+        },
+        {
+          "name": "Chika",
+          "isMale": false,
+          "spouse": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "name": "Aras",
+      "isMale": true,
+      "spouse": "Chitra",
+      "children": [
+        {
+          "name": "Jnki",
+          "isMale": false,
+          "spouse": "Arit",
+          "children": [
+            {
+              "name": "Laki",
+              "isMale": true,
+              "spouse": "",
+              "children": null
+            },
+            {
+              "name": "Lavnya",
+              "isMale": false,
+              "spouse": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "name": "Ahit",
+          "isMale": true,
+          "spouse": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "name": "Satya",
+      "isMale": false,
+      "spouse": "Vyan",
+      "children": [
+        {
+          "name": "Asva",
+          "isMale": true,
+          "spouse": "Satvy",
+          "children": [
+            {
+              "name": "Vasa",
+              "isMale": true,
+              "spouse": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "name": "Vyas",
+          "isMale": true,
+          "spouse": "Krpi",
+          "children": [
+            {
+              "name": "Kriya",
+              "isMale": true,
+              "spouse": "",
+              "children": null
+            },
+            {
+              "name": "Krithi",
+              "isMale": false,
+              "spouse": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "name": "Atya",
+          "isMale": false,
+          "spouse": "",
+          "children": null
+        }
+      ]
+    }
+  ]
+}
